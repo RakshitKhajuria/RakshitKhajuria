@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WgIcdi8Wf2Ywq5dWOI/giphy.gif">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rkshit Khajuria</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
 
@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **rakshitraina1234@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rakshit-khajuria-3627781b8/](https://www.linkedin.com/in/rakshit-khajuria-3627781b8/)
+- 📄 **Know about my experiences** [https://www.linkedin.com/in/rakshit-khajuria-3627781b8/](https://www.linkedin.com/in/rakshit-khajuria-3627781b8/)
 
-- ⚡My Hobbies are sketchingand football**
+- ⚡**My Hobbies are sketchingand football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
