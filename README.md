@@ -1,4 +1,4 @@
-[![MasterHead ](https://www.thedigitalmarketingbureau.com/wp-content/uploads/2017/03/AI-banner.jpg)] 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WgIcdi8Wf2Ywq5dWOI/giphy.gif">
 
