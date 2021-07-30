@@ -1,4 +1,4 @@
-<img align "right" alt="Coding" width = "400" src = "https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/source.mov">
+<img align = "right" alt="Coding" width = "400" src = "https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/source.mov">
 <h1 align="center">Hi 👋, I'm Rkshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
