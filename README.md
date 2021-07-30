@@ -41,6 +41,10 @@
 
 <br/>
 <br/>
+<a href="https://github.com/Ryzxxl/github-readme-activity-graph"><img alt="Rakshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ryzxxl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <!--
 **Ryzxxl/Ryzxxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
