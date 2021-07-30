@@ -1,4 +1,5 @@
-[![MasterHead ](https://portalinnova.cl/wp-content/uploads/2019/03/machine-learning-ia-.jpg)]
+[![MasterHead ](https://portalinnova.cl/wp-content/uploads/2019/03/machine-learning-ia-.jpg)] 
+
 <h1 align="center">Hi 👋, I'm Rkshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
