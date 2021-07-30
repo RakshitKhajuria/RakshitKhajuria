@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Python , Machine learning, Deep Learning, Data Analytics, Mathematics**
 
-- 👨‍💻 **All of my projects are available at [https://github.com/Ryzxxl](https://github.com/Ryzxxl)
+- 👨‍💻 **All of my projects are available at** [https://github.com/Ryzxxl](https://github.com/Ryzxxl)
 
-- 📫 **How to reach me **rakshitraina1234@gmail.com**
+- 📫 **How to reach me rakshitraina1234@gmail.com**
 
 - 📄 **Know about my experiences** [https://www.linkedin.com/in/rakshit-khajuria-3627781b8/](https://www.linkedin.com/in/rakshit-khajuria-3627781b8/)
 
