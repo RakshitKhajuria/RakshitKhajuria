@@ -1,4 +1,4 @@
-<img align = "right" alt="Coding" width = "400" src = "https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/source.mov">
+<img align = "right" alt="Coding" width = "400" iframe src="https://giphy.com/embed/xT9IgrGmE6FBjayjAc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-hacking-artificial-intelligence-xT9IgrGmE6FBjayjAc">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Rkshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
