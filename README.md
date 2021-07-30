@@ -14,7 +14,7 @@
 
 - 📄 **Know about my experiences** [https://www.linkedin.com/in/rakshit-khajuria-3627781b8/](https://www.linkedin.com/in/rakshit-khajuria-3627781b8/)
 
-- ⚡**My Hobbies are sketchingand football**
+- ⚡**My Hobbies are sketching and football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
