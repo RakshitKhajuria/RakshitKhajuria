@@ -1,3 +1,4 @@
+[![Masterhead](https://artificialintelligenceconnect.com/wp-content/uploads/2018/11/ai02-1.jpg)]
 <h1 align="center">Hi 👋, I'm Rkshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
