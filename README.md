@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WgIcdi8Wf2Ywq5dWOI/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
