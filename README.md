@@ -46,6 +46,11 @@
 <br/>
 <br/>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/Ryzxxl?tab=followers"><img src="https://img.shields.io/github/followers/Ryzxxl?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--
 **Ryzxxl/Ryzxxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
