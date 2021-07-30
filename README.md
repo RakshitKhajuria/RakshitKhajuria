@@ -1,9 +1,10 @@
 [![MasterHead ](https://www.thedigitalmarketingbureau.com/wp-content/uploads/2017/03/AI-banner.jpg)] 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
 
 <h1 align="center">Hi 👋, I'm Rkshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzxxl&label=Profile%20views&color=0e75b6&style=flat" alt="ryzxxl" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="ryzxxl" /> </p>
 
 - 🌱 I’m currently learning **Python , Machine learning, Deep Learning, Data Analytics, Mathematics**
 
