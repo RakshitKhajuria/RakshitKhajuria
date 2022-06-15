@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-HEY <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.5px">, I'm Rakshit Khajuria</h1>
+ <h1 align="center">HEY<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.5px">, I'm Rakshit Khajuria</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
 
