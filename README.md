@@ -38,37 +38,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Ryzxxl&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/Ryzxxl?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta"/>
-</div>
-
-
-<br/>
-<br/>
-
-
-<hr>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ryzxxl">
-</a>
-<a href="https://github.com/Ryzxxla1?tab=followers"><img src="https://img.shields.io/github/followers/Ryzxxl?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
-<br/>
-<br/>
-<a href="https://github.com/Ryzxxl/github-readme-activity-graph"><img alt="Rakshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ryzxxl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
