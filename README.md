@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/rakshit-khajuria-3627781b8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71117423/224528848-ef06c5db-2f60-4ef5-a777-357bc7be0fcd.png" alt="kjjsjkdads" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/rakshit-khajuria-3627781b8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71117423/224528848-ef06c5db-2f60-4ef5-a777-357bc7be0fcd.png" alt="kjjsjkdads" height="40" width="40" /></a>
 
- <a href="https://kaggle.com/rakshitkhajuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aldsljbasd" height="30" width="40" /></a>
+ <a href="https://kaggle.com/rakshitkhajuria" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71117423/224528888-25f1b4a4-dc17-498a-8383-56ad9a9de5b5.png" height="40" width="40" /></a>
  
 <a href="https://instagram.com/_x.rakshit_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x.rakshit_s" height="30" width="40" /></a>
 </p>
