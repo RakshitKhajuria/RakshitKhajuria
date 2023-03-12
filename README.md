@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png" height="175px"/></a>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG">
 
 
  <h1 align="center">HEY<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.5px">, I'm Rakshit Khajuria</h1>
