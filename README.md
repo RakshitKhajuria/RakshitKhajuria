@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png" height="175px"/></a>
 
-<img align="right" alt="Coding" width="400" height = "500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdkMGVjNGM1OTM3NDZiODJlOWQ1YzEwM2E4Njk4YTIwMjg0YWI1NiZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif">
+<img align="right" alt="Coding" width="400" height = "400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdkMGVjNGM1OTM3NDZiODJlOWQ1YzEwM2E4Njk4YTIwMjg0YWI1NiZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 
 
