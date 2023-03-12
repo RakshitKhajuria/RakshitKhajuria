@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528472-cab7926c-e5e2-4e01-bb34-81bd777a9870.png" height="175px"/></a>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
