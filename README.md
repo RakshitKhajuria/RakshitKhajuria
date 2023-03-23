@@ -27,7 +27,7 @@
 
  <a href="https://kaggle.com/rakshitkhajuria" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71117423/224528888-25f1b4a4-dc17-498a-8383-56ad9a9de5b5.png" height="40" width="40" /></a>
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
