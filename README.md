@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Python , Machine learning, Deep Learning, Data Analytics, Mathematics**
 
-- 👨‍💻 **All of my projects are available at** [https://github.com/Ryzxxl](https://github.com/Ryzxxl)
+- 👨‍💻 **All of my projects are available at** [https://github.com/RakshitKhajuria](https://github.com/RakshitKhajuria)
 
 - 📫 **How to reach me rakshitraina1234@gmail.com**
 
@@ -41,25 +41,25 @@
 
 
 <p align="center">
-    <a href="https://github.com/Ryzxxl/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rakshit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryzxxl&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/RakshitKhajuria/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rakshit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RakshitKhajuria&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <br/>
-    <a href="https://github.com/Ryzxxl/github-readme-stats"><img alt="Rakshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ryzxxl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ryzxxl/github-readme-stats"><img alt="Rakshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzxxl&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitKhajuria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ryzxxl">
+    <img src="https://komarev.com/ghpvc/?username=RakshitKhajuria">
 </a>
-<a href="https://github.com/Ryzxxl?tab=followers"><img src="https://img.shields.io/github/followers/Ryzxxl?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/RakshitKhajuria?tab=followers"><img src="https://img.shields.io/github/followers/RakshitKhajuria?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--
-**Ryzxxl/Ryzxxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RakshitKhajuria/RakshitKhajuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
