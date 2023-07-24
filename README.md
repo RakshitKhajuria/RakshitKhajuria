@@ -72,7 +72,8 @@
     <img src="https://img.shields.io/github/followers/RakshitKhajuria?style=for-the-badge&logo=github">
   <a href="https://github.com/RakshitKhajuria">
     <img src="https://img.shields.io/github/stars/RakshitKhajuria?style=for-the-badge&logo=git">
-
+  <a href="https://github.com/RakshitKhajuria/RakshitKhajuria">
+    <img src="https://img.shields.io/github/watchers/RakshitKhajuria/RakshitKhajuria?style=for-the-badge&logo=git">
 </p><br><br>
 
 [![Rakshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RakshitKhajuria&theme=redical)](https://github.com/RakshitKhajuria/github-readme-activity-graph)
