@@ -73,7 +73,7 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="400"></p><br>
 
-<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
+<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg" width="100%">
 
 <!---<h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>--->
