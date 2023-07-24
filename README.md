@@ -58,7 +58,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rakshit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RakshitKhajuria&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="400"></p><br>
+<p align="center"></p><br>
 
 <p float="left" align="center">
 
