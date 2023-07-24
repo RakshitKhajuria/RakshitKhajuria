@@ -70,7 +70,7 @@
 <!--
 **RakshitKhajuria/RakshitKhajuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="400"></p><br>
+<p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="600"></p><br>
 
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg" width="100%">
 
