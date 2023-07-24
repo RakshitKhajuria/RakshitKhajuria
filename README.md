@@ -83,6 +83,11 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="600"></p><br>
 
+ <!--  My Recent Musics on Spotify  -->
+  <div>
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31evuf6vgoatevm4f6eazb6cordu"><img align="right" width="400px" height="290px" src="https://c.tenor.com/VrTu3K7flqUAAAAC/hey-arnold-good-vibe.gif">
+  </div>
+  
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg" width="100%">
 
 <!---<h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
