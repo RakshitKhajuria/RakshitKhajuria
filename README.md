@@ -56,16 +56,16 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p align="center"><img src="https://count.getloli.com/get/@:WillDev12?theme=rule34" width="400"></p><br>
+<p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="400"></p><br>
 
 <p float="left" align="center">
 
-  <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge&logo=github">
-  <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge&logo=git">
-  <a href="https://github.com/WillDev12/WillDev12">
-    <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge&logo=git">
+  <a href="https://github.com/RakshitKhajuria">
+    <img src="https://img.shields.io/github/followers/RakshitKhajuria?style=for-the-badge&logo=github">
+  <a href="https://github.com/RakshitKhajuria">
+    <img src="https://img.shields.io/github/stars/RakshitKhajuria?style=for-the-badge&logo=git">
+  <a href="https://github.com/RakshitKhajuria/RakshitKhajuria">
+    <img src="https://img.shields.io/github/watchers/RakshitKhajuria/RakshitKhajuria?style=for-the-badge&logo=git">
 
 </p><br><br>
 <!--
