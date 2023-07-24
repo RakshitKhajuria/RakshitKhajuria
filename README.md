@@ -56,8 +56,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/RakshitKhajuria?tab=followers"><img src="https://img.shields.io/github/followers/RakshitKhajuria?label=Followers&style=social" alt="GitHub Badge"></a>
-
 <p align="center"><img src="https://count.getloli.com/get/@:WillDev12?theme=rule34" width="400"></p><br>
 
 <p float="left" align="center">
