@@ -35,15 +35,15 @@
  <table>
    <tr>
     <td valign="top">
-      <i>My last project:</i><br><br>
-       <a href="https://github.com/RakshitKhajuria/Job-Recomendation" target="blank">
-         <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=designo-multi-page-website&theme=calm">
+      <i>Current project:</i><br><br>
+       <a href="https://github.com/JohnSnowLabs/langtest" target="blank">
+         <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=langtest&theme=synthwave ">
        </a>
     </td>
     <td valign="top">
-     <i>My current project:</i><br><br>
-     <a href="[https://github.com/GustavoJuvino/Audiophile-Website](https://github.com/JohnSnowLabs/langtest)" target="blank">
-       <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=Audiophile-Website&theme=calm">
+     <i>Last project:</i><br><br>
+     <a href="https://github.com/RakshitKhajuria/Job-Recomendation" target="blank">
+       <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RakshitKhajuria&repo=Job-Recomendation&theme=synthwave ">
      </a>
     </td>
   </tr>
