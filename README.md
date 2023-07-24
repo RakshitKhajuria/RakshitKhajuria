@@ -58,10 +58,18 @@
 
 <a href="https://github.com/RakshitKhajuria?tab=followers"><img src="https://img.shields.io/github/followers/RakshitKhajuria?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RakshitKhajuria">
-</a>
+<p align="center"><img src="https://count.getloli.com/get/@:WillDev12?theme=rule34" width="400"></p><br>
+
+<p float="left" align="center">
+
+  <a href="https://github.com/WillDev12">
+    <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge&logo=github">
+  <a href="https://github.com/WillDev12">
+    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge&logo=git">
+  <a href="https://github.com/WillDev12/WillDev12">
+    <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge&logo=git">
+
+</p><br><br>
 <!--
 **RakshitKhajuria/RakshitKhajuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
