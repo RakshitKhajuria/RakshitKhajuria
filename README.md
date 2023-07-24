@@ -78,15 +78,8 @@
   <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitKhajuria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<!--
-**RakshitKhajuria/RakshitKhajuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="600"></p><br>
 
- <!--  My Recent Musics on Spotify  -->
-  <div>
-<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=juvinelsun"><img align="right" width="400px" height="290px" src="https://c.tenor.com/VrTu3K7flqUAAAAC/hey-arnold-good-vibe.gif">
-  </div>
   
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg" width="100%">
 
