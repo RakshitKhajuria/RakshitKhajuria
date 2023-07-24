@@ -37,7 +37,7 @@
     <td valign="top">
       <i>Current project:</i><br><br>
        <a href="https://github.com/JohnSnowLabs/langtest" target="blank">
-         <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RakshitKhajuria&repo=langtest&theme=synthwave">
+         <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnSnowLabs&repo=langtest&theme=synthwave">
        </a>
     </td>
     <td valign="top">
