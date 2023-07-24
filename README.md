@@ -32,6 +32,17 @@
 
 - ⚡**My Hobbies are sketching and football**
 
+ <table>
+   <tr>
+    <td valign="top">
+     <i>Current project:</i><br><br>
+     <a href="https://github.com/JohnSnowLabs/langtest" target="blank">
+       <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=Audiophile-Website&theme=calm">
+     </a>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/rakshit-khajuria-3627781b8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71117423/224528848-ef06c5db-2f60-4ef5-a777-357bc7be0fcd.png" alt="kjjsjkdads" height="40" width="40" /></a>
