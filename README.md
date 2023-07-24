@@ -35,14 +35,14 @@
  <table>
    <tr>
     <td valign="top">
-         <td valign="top">
-      <i>Last project:</i><br><br>
+      <i>My last project:</i><br><br>
        <a href="https://github.com/RakshitKhajuria/Job-Recomendation" target="blank">
          <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=designo-multi-page-website&theme=calm">
        </a>
     </td>
-     <i>Current project:</i><br><br>
-     <a href="https://github.com/JohnSnowLabs/langtest" target="blank">
+    <td valign="top">
+     <i>My current project:</i><br><br>
+     <a href="[https://github.com/GustavoJuvino/Audiophile-Website](https://github.com/JohnSnowLabs/langtest)" target="blank">
        <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=Audiophile-Website&theme=calm">
      </a>
     </td>
