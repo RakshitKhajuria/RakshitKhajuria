@@ -56,6 +56,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<a href="https://github.com/RakshitKhajuria?tab=followers"><img src="https://img.shields.io/github/followers/RakshitKhajuria?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
