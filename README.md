@@ -61,10 +61,10 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=RakshitKhajuria">
 </a>
-<a href="https://github.com/RakshitKhajuria?tab=followers"><img src="https://img.shields.io/github/followers/RakshitKhajuria?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--
 **RakshitKhajuria/RakshitKhajuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="400"></p><br>
 
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
 
