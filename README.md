@@ -1,7 +1,7 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Development+is+fun!%22" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">🏆 GitHub Trophy 🏆 </h3> 
