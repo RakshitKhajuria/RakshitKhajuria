@@ -54,7 +54,6 @@
     <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitKhajuria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="400"></p><br>
 
