@@ -12,7 +12,7 @@
   
 <img align="right" alt="Coding" width="350" height = "350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdkMGVjNGM1OTM3NDZiODJlOWQ1YzEwM2E4Njk4YTIwMjg0YWI1NiZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif">
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)  
  -->
 
 <!-- https://user-images.githubusercontent.com/71117423/224529205-b41f3863-5588-4d2b-9c37-78c5be4cde65.mp4
