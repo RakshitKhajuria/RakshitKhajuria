@@ -60,7 +60,7 @@
 <h1 align="center"> 🏆GitHub </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&include_all_commits=true&count_private=true&theme=omni &show_icons=true" alt="Rakshit's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&include_all_commits=true&count_private=true&theme=omni&show_icons=true" alt="Rakshit's GitHub stats">
   <br>
 </div>
 
