@@ -59,9 +59,12 @@
 
 ### 🏆GitHub
 
-[![Rakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKhjuria&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/RakshitKhajuria)
-
-![](https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+      [![Rakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/RakshitKhajuria)
+      
+      ![](https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+</p>
+<p align="center"></p><br>
 
 <p align="center">
     <a href="https://github.com/RakshitKhajuria/github-readme-streak-stats">
