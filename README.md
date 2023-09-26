@@ -59,9 +59,11 @@
 
 <h1 align="center"> 🏆GitHub </h1>
 
-[![Rakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/RakshitKhajuria)
-
-![](https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&include_all_commits=true&count_private=true&theme=monokai&show_icons=true" alt="Rakshit's GitHub stats">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+</div>
 
 
 <p align="center">
