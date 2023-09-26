@@ -59,6 +59,8 @@
 
 <h1 align="center"> 🏆GitHub </h1>
 
+<p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="600"></p><br>
+
 [![Rakshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RakshitKhajuria&theme=redical)](https://github.com/RakshitKhajuria/github-readme-activity-graph)
 
 <br/>
@@ -66,24 +68,12 @@
   <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitKhajuria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="600"></p><br>
-
 <p align="center">
     <a href="https://github.com/RakshitKhajuria/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rakshit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RakshitKhajuria&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <p align="center"></p><br>
-
-<p float="left" align="center">
-
-  <a href="https://github.com/RakshitKhajuria">
-    <img src="https://img.shields.io/github/followers/RakshitKhajuria?style=for-the-badge&logo=github">
-  <a href="https://github.com/RakshitKhajuria">
-    <img src="https://img.shields.io/github/stars/RakshitKhajuria?style=for-the-badge&logo=git">
-  <a href="https://github.com/RakshitKhajuria/RakshitKhajuria">
-    <img src="https://img.shields.io/github/watchers/RakshitKhajuria/RakshitKhajuria?style=for-the-badge&logo=git">
-</p><br><br>
 
   
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg" width="100%">
