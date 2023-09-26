@@ -6,7 +6,7 @@
       
 <h1 align="center">🏆 GitHub Trophy 🏆 </h3>          
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png" height="175px"/></a>      
    
@@ -61,13 +61,13 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:RakshitKhajuria?theme=rule34" width="600"></p><br>
 
-[![Rakshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RakshitKhajuria&theme=redical)](https://github.com/RakshitKhajuria/github-readme-activity-graph)
-
 <br/>
     <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitKhajuria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
 
+[![Rakshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RakshitKhajuria&theme=redical)](https://github.com/RakshitKhajuria/github-readme-activity-graph)
 
   
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg" width="100%">
