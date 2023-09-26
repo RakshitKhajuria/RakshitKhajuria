@@ -59,7 +59,7 @@
 
 <h1 align="center"> 🏆GitHub </h1>
 
-[![Rakshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RakshitKhajuria&theme=omni)](https://github.com/RakshitKhajuria/github-readme-activity-graph)
+[![Rakshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RakshitKhajuria&theme=redical)](https://github.com/RakshitKhajuria/github-readme-activity-graph)
 
 <br/>
     <a href="https://github.com/RakshitKhajuria/github-readme-stats"><img alt="Rakshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakshitKhajuria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
