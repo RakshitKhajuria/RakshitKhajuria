@@ -17,7 +17,7 @@
 
 <!-- https://user-images.githubusercontent.com/71117423/224529205-b41f3863-5588-4d2b-9c37-78c5be4cde65.mp4
  -->
-
+  
  <h1 align="center">HEY<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.5px">, I'm Rakshit Khajuria  <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff"></h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
