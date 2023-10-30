@@ -39,8 +39,7 @@
 | Blog Post          | Description                   |
 | ------------------ | ------------------------ |
 | [Detecting and Evaluating Sycophancy Bias: An Analysis of LLM and AI Solutions](https://medium.com/john-snow-labs/detecting-and-evaluating-sycophancy-bias-an-analysis-of-llm-and-ai-solutions-ce7c93acb5db)       |In this blog post, we discuss the pervasive issue of sycophantic AI behavior and the challenges it presents in the world of artificial intelligence. We explore how language models sometimes prioritize agreement over authenticity, hindering meaningful and unbiased conversations. Furthermore, we unveil a potential game-changing solution to this problem, synthetic data, which promises to revolutionize the way AI companions engage in discussions, making them more reliable and accurate across various real-world conditions.|
-| [Contributing to LangTest : Building Safe & Effective Language Models 🔥](https://medium.com/@rakshitkhajuria/contributing-to-langtest-building-safe-effective-language-models-8353ab813798)
-       | In this blog post, we discuss about how to make valid contributions to the **LangTest** library. |
+| [Contributing to LangTest : Building Safe & Effective Language Models 🔥](https://medium.com/@rakshitkhajuria/contributing-to-langtest-building-safe-effective-language-models-8353ab813798)| In this blog post, we discuss about how to make valid contributions to the **LangTest** library. |
 
 
  <table>
