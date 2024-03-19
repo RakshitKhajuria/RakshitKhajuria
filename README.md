@@ -59,6 +59,11 @@
   </tr>
 </table>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakshitKhajuria&theme=cobalt&hide_border=true" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/rakshit-khajuria-3627781b8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71117423/224528848-ef06c5db-2f60-4ef5-a777-357bc7be0fcd.png" alt="kjjsjkdads" height="40" width="40" /></a> <a href="https://kaggle.com/rakshitkhajuria" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71117423/224528888-25f1b4a4-dc17-498a-8383-56ad9a9de5b5.png" height="40" width="40" /></a>
