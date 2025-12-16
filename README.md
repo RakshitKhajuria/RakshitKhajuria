@@ -4,9 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Development+is+fun!%22" alt="Typing SVG" /></a>
 </p>  
         
+<!-- GitHub Trophy Section -->
 <h1 align="center">🏆 GitHub Trophy 🏆</h1>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=juicyfresh&cache_seconds=86400" />
 
 <p align="center">
   <img
