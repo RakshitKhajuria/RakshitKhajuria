@@ -4,9 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Development+is+fun!%22" alt="Typing SVG" /></a>
 </p>  
         
-<h1 align="center">🏆 GitHub Trophy 🏆 </h3>             
+<h1 align="center">🏆 GitHub Trophy 🏆</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=aura&no-frame=true&margin-w=15" />
+  </a>
+</p>
 
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png" height="175px"/></a>      
    
