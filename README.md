@@ -6,6 +6,8 @@
         
 <h1 align="center">🏆 GitHub Trophy 🏆</h1>
 
+<img src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=juicyfresh&cache_seconds=86400" />
+
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=juicyfresh&column=7&margin-w=15&margin-h=15"
