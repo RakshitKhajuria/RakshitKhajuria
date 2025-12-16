@@ -7,9 +7,10 @@
 <h1 align="center">🏆 GitHub Trophy 🏆</h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=aura&no-frame=true&margin-w=15" />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=juicyfresh&column=7&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png" height="175px"/></a>      
