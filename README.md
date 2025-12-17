@@ -1,4 +1,4 @@
-<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">   
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png" height="175px"/></a>      
 
 <p align="center">
   <em>⚠️ The following statements are statistically inconsistent and emotionally accurate.</em>
@@ -13,18 +13,6 @@
   </a>
 </p>
 
-        
-<!-- GitHub Trophy Section -->
-<h1 align="center">🏆 GitHub Trophy 🏆</h1>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=RakshitKhajuria&theme=juicyfresh&column=7&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png" height="175px"/></a>      
    
 <img align="right" alt="Coding" width="350" height = "350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdkMGVjNGM1OTM3NDZiODJlOWQ1YzEwM2E4Njk4YTIwMjg0YWI1NiZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif">  
      
