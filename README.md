@@ -1,6 +1,10 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">   
 
 <p align="center">
+  <em>⚠️ The following statements are statistically inconsistent and emotionally accurate.</em>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&center=true&width=1000&lines=I+collect+data%2C+stare+at+it+intensely%2C+and+call+it+science.;Turning+messy+spreadsheets+into+confident+conclusions+since+forever.;I+don't+predict+the+future%2C+I+just+disappoint+stakeholders+with+statistics.;This+model+was+state+of+the+art+until+I+deployed+it.;I+trust+the+data%2C+but+I+still+double-check+it+three+times+and+panic+anyway.;Explaining+why+the+numbers+are+correct+and+reality+is+wrong.;I+ran+the+experiment%2C+the+experiment+ran+me+back.;Every+dataset+tells+a+story%2C+most+of+them+are+horror+stories.;My+job+is+10%25+modeling+and+90%25+convincing+people+the+chart+makes+sense.;I+add+confidence+intervals+so+I+can+be+wrong+with+mathematical+elegance.;The+data+looked+clean+until+I+actually+looked+at+the+data.;I+don't+overthink+things%2C+I+just+explore+all+possible+dimensions.;Making+statistically+significant+mistakes+with+great+confidence.;I+spent+three+days+debugging+and+it+turned+out+the+data+was+lying.;My+model+is+sophisticated%2C+my+assumptions+are+optimistic.;I+don't+guess%2C+I+quantify+my+uncertainty+and+still+feel+unsure.;I+asked+the+data+a+simple+question+and+it+responded+with+14+edge+cases.;Everything+was+fine+until+someone+asked+for+a+business+explanation.;I+turn+ambiguity+into+plots+and+hope+nobody+asks+too+many+questions.;This+insight+is+100%25+accurate+within+a+95%25+confidence+interval."
