@@ -51,10 +51,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakshitKhajuria&theme=cobalt&hide_border=true" />
 </p>
 
+
+
 <a href="https://github.com/RakshitKhajuria/github-readme-stats">
   <img
     alt="Rakshit's Github Stats"
-    src="https://rakshit-github-readme-stats.vercel.app/api?username=RakshitKhajuria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+    src="https://rakshit-github-readme-stats.vercel.app/api?username=RakshitKhajuria&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
   />
 </a>
 
